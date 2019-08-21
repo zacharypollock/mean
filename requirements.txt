@@ -1,2 +1,2 @@
-mean.py
-mod.py
+numpy
+pytest
