@@ -38,3 +38,5 @@ def test_complex():
     obs = mean(num_list)
     exp = (-9 + 3j)
     assert obs == exp
+
+#comment to make travis rerun
